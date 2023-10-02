@@ -1,0 +1,9 @@
+1.Forking and pull requests
+Forking and pull requests is the most common way to collaborate on GitHub. 
+It involves creating a copy of a repository (a fork) on your own account,
+ making changes to the fork, and then submitting those changes to the original repository as a pull request.
+
+
+2. Branch-based collaboration
+Branch-based collaboration is when developers work on different branches of a repository and
+ then merge their changes together once they are ready.

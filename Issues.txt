@@ -1,0 +1,5 @@
+Issues
+forgot to identify user name and email
+
+git config --global user.name "omar3emad"
+git config --global user.email "omare0496@gmail.com"
